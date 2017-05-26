@@ -21,7 +21,7 @@
   "author": "Roman Shtylman <shtylman@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "resolve": "1.1.7"
+    "resolve": "github:tcchau/node-resolve"
   },
   "devDependencies": {
     "mocha": "1.14.0"
